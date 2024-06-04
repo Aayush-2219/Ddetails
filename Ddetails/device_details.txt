@@ -1,0 +1,12 @@
+{
+OS = Android
+Battery Level = 98
+Battery Status = Not Charging
+IP address = 47.15.32.149
+}
+{
+OS = Android
+Battery Level = 69
+Battery Status = Not Charging
+IP address = 106.200.224.145
+}
